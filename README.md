@@ -13,5 +13,3 @@ If you have everything, then:
 2. You navigate to the folder where you extracted the .zip you downloaded from github
 3. You run "python fb.py"
 4. If all the files are in the correct place, Flappy Bird should run!
-
-# Thanks for checking out my Repo :)
