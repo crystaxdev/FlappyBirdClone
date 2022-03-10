@@ -10,6 +10,6 @@ You need:
 
 If you have everything, then:
 1. You open up your terminal
-2. You navigate to the folder where you extracted the .zip you downloaded from github
+2. You navigate to the folder where you cloned the repository
 3. You run "python fb.py"
 4. If all the files are in the correct place, Flappy Bird should run!
